@@ -26,7 +26,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.exceptions import TelegramBadRequest, TelegramForbiddenError
 
 # ═══════════════════════════════════════════════════════════════
-BOT_TOKEN = "8541509354:AAGmDHF3nfOTHoLJXAPE-qLK-pDn9ZwETYU"
+BOT_TOKEN = "8541509354:AAEgUW7dp4aL-QeQDYude09IFMPrdmhahaw"
 GROQ_API_KEY = "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"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 ADMIN_IDS = [8517530604]
